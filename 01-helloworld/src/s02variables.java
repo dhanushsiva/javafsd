@@ -10,6 +10,5 @@ public class s02variables {
 		int a= 5+(7-1)*8;
 		System.out.println(a);
 		
-		int fi
 	}
 }

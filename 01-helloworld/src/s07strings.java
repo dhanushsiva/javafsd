@@ -1,8 +1,8 @@
 
-public class string {
+public class s07strings {
 
 	public static void main(String[] args) {
-		
+		// TODO Auto-generated method stub
 //		string literal
 	   String name= "max";
 //string is an object. string pooling happens in heap memory 

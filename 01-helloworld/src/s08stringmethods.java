@@ -1,7 +1,8 @@
 
-public class stringmethods {
+public class s08stringmethods {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		String s="hello world";
 		System.out.println("length of s="+s.length());
 		System.out.println("index of w="+s.indexOf('w'));
